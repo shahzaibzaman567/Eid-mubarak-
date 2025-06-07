@@ -1,0 +1,16 @@
+body{
+background-color: rgb(215, 228, 250);    
+
+
+}
+
+h1{
+    color: rgb(17, 53, 255);
+    text-align: center;
+    font-size: 40px;
+font-style: italic;
+}
+button{
+    margin-left: 45% ;
+    margin-top: 25% ;
+}
